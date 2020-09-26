@@ -9,4 +9,11 @@ $(document).ready(function () {
       $('div.amenities h4').text(Object.values(dataObject).join(', '));
     }
   });
+
+  $.ajax({url: "http://localhost:5001/api/v1/status/", success: function(result){
+    if (result.status === "OK") {
+      $('div#api_status').toggleClass('not-available');
+      $('div#api_status').toggleClass('available');
+    }
+  }});
 });
