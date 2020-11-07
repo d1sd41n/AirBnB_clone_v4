@@ -154,8 +154,8 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Daniel Pérez - [Github](https://github.com/d1sd41n) / [Twitter](https://twitter.com/1l_dan)
-Juan Olivares - [Github](https://github.com/JuanOlivares1) / [Twitter](https://twitter.com/OlivaresP____) 
+Daniel Pérez - [Github](https://github.com/d1sd41n) / [Twitter](https://twitter.com/1l_dan)  
+Juan Olivares - [Github](https://github.com/JuanOlivares1) / [Twitter](https://twitter.com/OlivaresP____)  
 Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)  
 Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
